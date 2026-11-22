@@ -179,7 +179,7 @@ def taught_words(days_dir):
                     words.append(str(v[0]).split(",")[0].strip())
         except Exception:  # noqa: BLE001
             continue
-    return ", ".join(dict.fromkeys(words)[-160:]) if words else "none"
+    return ", ".join(list(dict.fromkeys(words))[-160:]) if words else "none"
 
 
 def write_summary(lesson, path, model):
