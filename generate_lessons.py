@@ -81,7 +81,26 @@ writing, model, checkpoint, vocabQuiz, comprehension, trueFalse, review.
 """
 
 
-def call_gemini(api_key, prompt, retries=3):
+def discover_models(api_key):
+    """Same approach as the app: list models the key can use, prefer the known-good ones."""
+    req = urllib.request.Request(
+        "https://generativelanguage.googleapis.com/v1beta/models?pageSize=100&key=" + api_key)
+    with urllib.request.urlopen(req, timeout=30) as resp:
+        payload = json.load(resp)
+    skip = ("embedding", "tts", "image", "aqa", "robotics", "computer-use")
+    names = []
+    for m in payload.get("models", []):
+        n = str(m.get("name", "")).replace("models/", "")
+        if (n.startswith("gemini-")
+                and "generateContent" in m.get("supportedGenerationMethods", [])
+                and not any(s in n for s in skip)):
+            names.append(n)
+    ordered = [p for p in GEMINI_MODELS if p in names] + [n for n in names if n not in GEMINI_MODELS]
+    print("Available models:", ", ".join(ordered[:5]) if ordered else "none")
+    return ordered or GEMINI_MODELS
+
+
+def call_gemini(api_key, prompt, models, retries=3):
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": 0.9, "maxOutputTokens": 8192,
@@ -89,7 +108,7 @@ def call_gemini(api_key, prompt, retries=3):
     }).encode()
     last_err = None
     for attempt in range(retries):
-        for model in GEMINI_MODELS:
+        for model in models:
             req = urllib.request.Request(
                 BASE_URL.format(model=model) + "?key=" + api_key,
                 data=body, headers={"Content-Type": "application/json"})
@@ -217,6 +236,8 @@ def main():
     if not api_key:
         raise SystemExit("Set GEMINI_API_KEY first (free key from aistudio.google.com).")
 
+    models = discover_models(api_key)
+
     root = Path(__file__).resolve().parent
     days_dir = root / "days"
     review_dir = root / "review"
@@ -243,7 +264,7 @@ def main():
             recycle="sein, heißen, wohnen",
         )
         print("Generating day %d (%s)..." % (day_id, topic))
-        raw, model = call_gemini(api_key, prompt)
+        raw, model = call_gemini(api_key, prompt, models)
         try:
             lesson = extract_json(raw)
         except Exception as e:  # noqa: BLE001
