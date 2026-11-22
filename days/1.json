@@ -1,0 +1,198 @@
+{
+  "level": "A1.1",
+  "title": "Begrüßung & sein",
+  "subtitle": "Greetings and the Verb 'to be'",
+  "description": "Welcome to your first German lesson! Today, we learn how to say hello, introduce ourselves, and use the most important verb: 'sein' (to be).",
+  "focus": "sein/heißen present tense, Sie vs. du",
+  "objectives": [
+    "Greet people formally and informally",
+    "State your name using 'heißen' and 'sein'",
+    "Understand the difference between 'du' (informal) and 'Sie' (formal)",
+    "Conjugate 'sein' in the singular and plural present tense",
+    "Identify basic titles like Herr and Frau"
+  ],
+  "vocabulary": [
+    [
+      "Guten Tag",
+      "Hello/Good day (نهار سعيد)",
+      "Guten Tag, Herr Schmidt."
+    ],
+    [
+      "wer",
+      "who (من)",
+      "Wer bist du?"
+    ],
+    [
+      "aus",
+      "from (من - للأصل)",
+      "Ich komme aus Syrien."
+    ],
+    [
+      "die Frau",
+      "the woman/Ms. (السيدة)",
+      "Frau Bauer ist hier."
+    ],
+    [
+      "der Herr",
+      "the man/Mr. (السيد)",
+      "Wie heißt der Herr?"
+    ]
+  ],
+  "dialogues": [
+    {
+      "title": "Formal Meeting",
+      "body": "Herr Müller: Guten Tag! Ich bin Hans Müller. Und wer sind Sie?\nFrau Schmidt: Guten Tag, Herr Müller. Ich heiße Anna Schmidt."
+    },
+    {
+      "title": "Informal Meeting",
+      "body": "Lukas: Hallo! Ich bin Lukas. Wer bist du?\nSarah: Hi Lukas! Ich heiße Sarah."
+    },
+    {
+      "title": "Where do you live?",
+      "body": "Herr Müller: Wo wohnen Sie, Frau Schmidt?\nFrau Schmidt: Ich wohne in Berlin."
+    },
+    {
+      "title": "Who is that?",
+      "body": "Lukas: Wer ist das?\nSarah: Das ist Herr Weber. Er ist aus Berlin."
+    },
+    {
+      "title": "Saying Goodbye",
+      "body": "Frau Schmidt: Auf Wiedersehen, Herr Müller.\nHerr Müller: Auf Wiedersehen!"
+    }
+  ],
+  "reading": {
+    "title": "Hallo aus Deutschland",
+    "text": "Hallo! Mein Name ist Tim. Ich bin 20 Jahre alt. Ich wohne in München. Das ist Frau Bauer. Sie ist meine Lehrerin. Sie kommt aus Berlin. Wir sind in der Schule. Wer bist du? Wo wohnst du?"
+  },
+  "culture": {
+    "title": "Du vs. Sie",
+    "body": "In Germany, respect is important. Use 'Sie' for adults you don't know, teachers, and bosses. Use 'du' for friends, family, and children. When using 'Sie', always use the last name (e.g., Frau Müller)."
+  },
+  "grammar": {
+    "title": "The Verbs 'sein' and 'heißen'",
+    "body": "1. 'sein' (to be): ich bin, du bist, er/sie/es ist, wir sind, ihr seid, sie/Sie sind. Example: Ich bin Tim.\n2. 'heißen' (to be called): ich heiße, du heißt, er/sie heißt. Example: Wie heißt du?",
+    "quizzes": [
+      {
+        "question": "Ich ___ (sein) Student.",
+        "options": [
+          "bin",
+          "bist",
+          "ist"
+        ],
+        "answer": "bin"
+      },
+      {
+        "question": "Wie ___ (heißen) Sie?",
+        "options": [
+          "heißt",
+          "heißen",
+          "heiße"
+        ],
+        "answer": "heißen"
+      }
+    ]
+  },
+  "translations": [
+    {
+      "question": "I am from Berlin.",
+      "answer": "Ich bin aus Berlin."
+    },
+    {
+      "question": "The man is here.",
+      "answer": "Der Herr ist hier."
+    }
+  ],
+  "listening": {
+    "title": "Listening: First Meetings",
+    "steps": [
+      "Listen for the names.",
+      "Identify if they use 'du' or 'Sie'."
+    ],
+    "script": "Guten Tag. Ich bin Herr Maier. Ich wohne in Hamburg. Und wer sind Sie?",
+    "quiz": {
+      "question": "Where does Herr Maier live?",
+      "options": [
+        "Berlin",
+        "Hamburg",
+        "München"
+      ],
+      "answer": "Hamburg"
+    }
+  },
+  "writing": "Introduce yourself in three sentences. Use 'Ich bin...', 'Ich heiße...', and 'Ich wohne in...'.",
+  "model": "Ich bin Ahmed. Ich heiße Ahmed Al-Farsi. Ich wohne in Berlin.",
+  "checkpoint": "Can you say your name? Can you use 'sein' with 'ich' and 'du'?",
+  "vocabQuiz": [
+    {
+      "word": "Guten Tag",
+      "options": [
+        "Good morning",
+        "Good day",
+        "Good night"
+      ],
+      "answer": "Good day"
+    },
+    {
+      "word": "der Herr",
+      "options": [
+        "the woman",
+        "the man",
+        "the child"
+      ],
+      "answer": "the man"
+    }
+  ],
+  "comprehension": {
+    "question": "Where is Frau Bauer from in the reading text?",
+    "options": [
+      "München",
+      "Berlin",
+      "Hamburg"
+    ],
+    "answer": "Berlin"
+  },
+  "trueFalse": [
+    {
+      "statement": "'Sie' is for friends.",
+      "answer": false
+    },
+    {
+      "statement": "'Ich bin' means 'I am'.",
+      "answer": true
+    }
+  ],
+  "review": {
+    "title": "Verb Review",
+    "instructions": "Fill in the blanks using: sein, heißen, or wohnen.",
+    "quiz": [
+      {
+        "question": "Wer ___ du?",
+        "options": [
+          "bist",
+          "heißt",
+          "wohnst"
+        ],
+        "answer": "bist"
+      },
+      {
+        "question": "Ich ___ in Frankfurt.",
+        "options": [
+          "bin",
+          "heiße",
+          "wohne"
+        ],
+        "answer": "wohne"
+      },
+      {
+        "question": "Wie ___ er?",
+        "options": [
+          "ist",
+          "heißt",
+          "wohnt"
+        ],
+        "answer": "heißt"
+      }
+    ]
+  },
+  "id": 1
+}

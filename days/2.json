@@ -1,0 +1,158 @@
+{
+  "level": "A1.1",
+  "title": "Tag 2: Im Café & möchten",
+  "subtitle": "Ordering drinks, numbers, and expressing polite wishes in a German café.",
+  "description": "Learn how to order coffee and cake in a German café using 'möchten', handle basic numbers, and ask for the bill.",
+  "focus": "möchten, bestellen, Zahlen bitte",
+  "objectives": [
+    "Learn 5 new café and ordering words",
+    "Understand the polite verb 'möchten' (would like)",
+    "Count and ask for prices or the bill ('Zahlen, bitte')",
+    "Read a simple ordering scenario in a café",
+    "Review Day 1 verbs: sein, heißen, and wohnen"
+  ],
+  "vocabulary": [
+    [
+      "der Kaffee",
+      "coffee (قهوة)",
+      "Ich möchte einen Kaffee, bitte."
+    ],
+    [
+      "das Wasser",
+      "water (ماء)",
+      "Ein Wasser, bitte."
+    ],
+    [
+      "der Kuchen",
+      "cake (كعكة)",
+      "Der Kuchen ist lecker."
+    ],
+    [
+      "kosten",
+      "to cost (يكلف)",
+      "Was kostet das?"
+    ],
+    [
+      "bitte",
+      "please (من فضلك)",
+      "Einen Kaffee, bitte."
+    ]
+  ],
+  "dialogues": [
+    {
+      "title": "Im Café",
+      "body": "Kellner: Guten Tag! Was möchten Sie?\nAnna: Ich möchte einen Kaffee, bitte.\nKellner: Und für Sie?\nTom: Ein Wasser, bitte.\nKellner: Gern."
+    },
+    {
+      "title": "Die Rechnung",
+      "body": "Anna: Zahlen, bitte!\nKellner: Zusammen oder getrennt?\nAnna: Zusammen, bitte.\nKellner: Das macht vier Euro.\nAnna: Danke schön!"
+    },
+    {
+      "title": "Kaffee und Kuchen",
+      "body": "Tom: Möchtest du Kuchen?\nAnna: Ja, einen Kuchen, bitte.\nTom: Was kostet der Kuchen?\nKellner: Drei Euro.\nTom: Perfekt!"
+    },
+    {
+      "title": "Bestellung aufnehmen",
+      "body": "Kellner: Hallo! Noch ein Kaffee?\nAnna: Nein, danke. Nur die Rechnung.\nKellner: Kommt sofort.\nAnna: Danke."
+    },
+    {
+      "title": "Kurzes Gespräch",
+      "body": "Tom: Hallo, ich bin Tom.\nAnna: Hallo Tom, ich bin Anna. Ich wohne in Berlin.\nTom: Ich auch!"
+    }
+  ],
+  "reading": {
+    "title": "Anna ist im Café",
+    "text": "Anna ist in Berlin. Sie ist im Café. Sie möchte einen Kaffee und einen Kuchen. Der Kellner kommt. Anna sagt: 'Einen Kaffee und einen Kuchen, bitte!' Der Kaffee kostet drei Euro. Der Kuchen kostet vier Euro. Anna bezahlt und sagt: 'Danke, tschüss!'"
+  },
+  "culture": {
+    "title": "Café Culture in Germany",
+    "body": "In Germany, going to a café ('Café' or 'Kaffeehaus') is very popular. When you want to pay, you say 'Zahlen, bitte'. The waiter will often ask 'Zusammen oder getrennt?' (Together or separate?)."
+  },
+  "grammar": {
+    "title": "Möchten (Would like) & Zahlen",
+    "body": "Use 'möchten' to express polite wishes. Conjugation: ich möchte, du möchtest, er/sie/es möchte, wir möchten, ihr möchtet, sie/Sie möchten. Example: 'Ich möchte einen Kaffee.' Also use 'Zahlen, bitte' to ask for the bill.",
+    "quizzes": [
+      {
+        "question": "Choose the correct form: Ich _____ einen Kaffee.",
+        "options": [
+          "möchte",
+          "möchtest",
+          "möchten"
+        ],
+        "answer": "möchte"
+      },
+      {
+        "question": "How do you ask for the bill?",
+        "options": [
+          "Zahlen, bitte.",
+          "Hallo, bitte.",
+          "Kaffee, bitte."
+        ],
+        "answer": "Zahlen, bitte."
+      }
+    ]
+  },
+  "translations": [
+    {
+      "prompt": "Translate to German: I would like a water, please.",
+      "answer": "Ich möchte ein Wasser, bitte."
+    },
+    {
+      "prompt": "Translate to German: Bill, please!",
+      "answer": "Zahlen, bitte!"
+    }
+  ],
+  "listening": {
+    "title": "Listening Exercise: Im Café",
+    "steps": [
+      "Listen to the dialogue between the guest and the waiter.",
+      "Identify what the guest orders.",
+      "Check the total price."
+    ],
+    "script": "Kellner: Guten Tag! Was möchten Sie? Gast: Ich möchte einen Kaffee und einen Kuchen, bitte. Kellner: Gern. Das macht sieben Euro. Gast: Hier, bitte. Tschüss!",
+    "quiz": {
+      "question": "What does the guest order?",
+      "options": [
+        "Kaffee und Kuchen",
+        "Wasser und Tee",
+        "Nur Wasser"
+      ],
+      "answer": "Kaffee und Kuchen"
+    }
+  },
+  "writing": "Write 3 short sentences about what you want to order in a German café using 'Ich möchte...'.",
+  "model": "Ich möchte einen Kaffee. Ich möchte ein Wasser. Ich möchte einen Kuchen, bitte.",
+  "checkpoint": "Can you order a drink and ask for the bill in a German café using 'möchten'?",
+  "vocabQuiz": {
+    "question": "What does 'kosten' mean?",
+    "options": [
+      "to cost",
+      "to come",
+      "to live"
+    ],
+    "answer": "to cost"
+  },
+  "comprehension": {
+    "question": "What does Anna order in the reading text?",
+    "options": [
+      "Kaffee und Kuchen",
+      "Nur Wasser",
+      "Tee und Brot"
+    ],
+    "answer": "Kaffee und Kuchen"
+  },
+  "trueFalse": {
+    "statement": "You use 'möchten' to express what you would like to have.",
+    "answer": true
+  },
+  "review": {
+    "question": "Review from Day 1: Fill in the blank - Ich _____ in München.",
+    "options": [
+      "wohne",
+      "heiße",
+      "bin"
+    ],
+    "answer": "wohne"
+  },
+  "id": 2
+}

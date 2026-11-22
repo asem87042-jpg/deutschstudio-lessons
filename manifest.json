@@ -1,4 +1,29 @@
 {
-  "version": 0,
-  "days": []
+  "version": 1,
+  "days": [
+    {
+      "id": 1,
+      "date": "",
+      "level": "A1.1",
+      "title": "Begrüßung & sein",
+      "file": "days/1.json",
+      "sha256": "31a5607d69d90466dd8f5b46acf297d839a5e403cfacf39d8a39423c0535fb0d"
+    },
+    {
+      "id": 2,
+      "date": "",
+      "level": "A1.1",
+      "title": "Tag 2: Im Café & möchten",
+      "file": "days/2.json",
+      "sha256": "d2f1a80021b1f3a9ffb0586eb86e5bbecda347bf4dfd4e6d26e03c16a6d4f203"
+    },
+    {
+      "id": 3,
+      "date": "",
+      "level": "A1.1",
+      "title": "Tag 3: Zahlen, Preise & Supermarkt",
+      "file": "days/3.json",
+      "sha256": "45e4ee44faf073931586717840ef34e82a6c457507d024322bdff9ccf968b8fb"
+    }
+  ]
 }

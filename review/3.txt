@@ -1,0 +1,36 @@
+Day 3 - Tag 3: Zahlen, Preise & Supermarkt
+Level: A1.1 | Focus: Numbers 0-100, prices, definite articles (der/die/das) | Model: gemini-flash-lite-latest
+
+Objectives:
+  - Count from 0 to 100 in German
+  - Ask and understand prices using 'Wie viel kostet...?'
+  - Identify and use the three gender articles: der, die, das
+  - Shop for basic items in a German supermarket
+  - Review basic verbs (sein, heißen, wohnen)
+
+Vocabulary:
+  - der Supermarkt | the supermarket / البقالة أو السوبرماركت | Der Supermarkt ist groß.
+  - das Obst | the fruit / الفواكه | Das Obst ist frisch.
+  - der Euro | the Euro (currency) / يورو | Das kostet zwei Euro.
+  - teuer | expensive / غالي | Der Apfel ist teuer.
+  - günstig | cheap / رخيص | Die Banane ist günstig.
+
+Dialogues:
+  - Im Supermarkt: Kunde: Entschuldigung, was kostet das Obst?
+Verkäufer: Das Obst kostet drei Euro.
+Kunde: Danke!
+Verkäufer: Bitte....
+  - An der Kasse: Kassierer: Das macht zusammen fünf Euro.
+Kunde: Hier, bitte.
+Kassierer: Danke. Auf Wiedersehen!
+Kunde: Tschüss....
+  - Preise fragen: Anna: Wie viel kostet die Banane?
+Max: Die Banane kostet einen Euro.
+Anna: Das ist günstig!...
+  - Einkaufen: Maria: Ist der Supermarkt nah?
+Paul: Ja, der Supermarkt ist hier.
+Maria: Gut, ich brauche Äpfel....
+  - Bezahlen: Kunde: Mit Karte, bitte.
+Kassierer: Ja, gerne. PIN bitte.
+Kunde: Fertig.
+Kassierer: Schönen Tag noch!...

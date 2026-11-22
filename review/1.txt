@@ -1,0 +1,28 @@
+Day 1 - Begrüßung & sein
+Level: A1.1 | Focus: sein/heißen present tense, Sie vs. du | Model: gemini-3-flash-preview
+
+Objectives:
+  - Greet people formally and informally
+  - State your name using 'heißen' and 'sein'
+  - Understand the difference between 'du' (informal) and 'Sie' (formal)
+  - Conjugate 'sein' in the singular and plural present tense
+  - Identify basic titles like Herr and Frau
+
+Vocabulary:
+  - Guten Tag | Hello/Good day (نهار سعيد) | Guten Tag, Herr Schmidt.
+  - wer | who (من) | Wer bist du?
+  - aus | from (من - للأصل) | Ich komme aus Syrien.
+  - die Frau | the woman/Ms. (السيدة) | Frau Bauer ist hier.
+  - der Herr | the man/Mr. (السيد) | Wie heißt der Herr?
+
+Dialogues:
+  - Formal Meeting: Herr Müller: Guten Tag! Ich bin Hans Müller. Und wer sind Sie?
+Frau Schmidt: Guten Tag, Herr Müller. Ich heiße Anna Schmidt....
+  - Informal Meeting: Lukas: Hallo! Ich bin Lukas. Wer bist du?
+Sarah: Hi Lukas! Ich heiße Sarah....
+  - Where do you live?: Herr Müller: Wo wohnen Sie, Frau Schmidt?
+Frau Schmidt: Ich wohne in Berlin....
+  - Who is that?: Lukas: Wer ist das?
+Sarah: Das ist Herr Weber. Er ist aus Berlin....
+  - Saying Goodbye: Frau Schmidt: Auf Wiedersehen, Herr Müller.
+Herr Müller: Auf Wiedersehen!...

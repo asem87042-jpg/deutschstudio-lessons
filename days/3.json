@@ -1,0 +1,173 @@
+{
+  "level": "A1.1",
+  "title": "Tag 3: Zahlen, Preise & Supermarkt",
+  "subtitle": "Mastering numbers up to 100, asking for prices, and using definite articles (der, die, das)",
+  "description": "In this lesson, you will learn how to count to 100, ask how much things cost at the supermarket, and understand the basic German grammatical gender articles: der, die, das.",
+  "focus": "Numbers 0-100, prices, definite articles (der/die/das)",
+  "objectives": [
+    "Count from 0 to 100 in German",
+    "Ask and understand prices using 'Wie viel kostet...?'",
+    "Identify and use the three gender articles: der, die, das",
+    "Shop for basic items in a German supermarket",
+    "Review basic verbs (sein, heißen, wohnen)"
+  ],
+  "vocabulary": [
+    [
+      "der Supermarkt",
+      "the supermarket / البقالة أو السوبرماركت",
+      "Der Supermarkt ist groß."
+    ],
+    [
+      "das Obst",
+      "the fruit / الفواكه",
+      "Das Obst ist frisch."
+    ],
+    [
+      "der Euro",
+      "the Euro (currency) / يورو",
+      "Das kostet zwei Euro."
+    ],
+    [
+      "teuer",
+      "expensive / غالي",
+      "Der Apfel ist teuer."
+    ],
+    [
+      "günstig",
+      "cheap / رخيص",
+      "Die Banane ist günstig."
+    ]
+  ],
+  "dialogues": [
+    {
+      "title": "Im Supermarkt",
+      "body": "Kunde: Entschuldigung, was kostet das Obst?\nVerkäufer: Das Obst kostet drei Euro.\nKunde: Danke!\nVerkäufer: Bitte."
+    },
+    {
+      "title": "An der Kasse",
+      "body": "Kassierer: Das macht zusammen fünf Euro.\nKunde: Hier, bitte.\nKassierer: Danke. Auf Wiedersehen!\nKunde: Tschüss."
+    },
+    {
+      "title": "Preise fragen",
+      "body": "Anna: Wie viel kostet die Banane?\nMax: Die Banane kostet einen Euro.\nAnna: Das ist günstig!"
+    },
+    {
+      "title": "Einkaufen",
+      "body": "Maria: Ist der Supermarkt nah?\nPaul: Ja, der Supermarkt ist hier.\nMaria: Gut, ich brauche Äpfel."
+    },
+    {
+      "title": "Bezahlen",
+      "body": "Kunde: Mit Karte, bitte.\nKassierer: Ja, gerne. PIN bitte.\nKunde: Fertig.\nKassierer: Schönen Tag noch!"
+    }
+  ],
+  "reading": {
+    "title": "Einkauf in Berlin",
+    "text": "Anna ist in Berlin. Sie wohnt in Mitte und heißt Anna. Sie ist im Supermarkt. Der Supermarkt ist modern. Anna kauft Obst. Das Obst ist frisch und günstig. Ein Apfel kostet null Komma fünfzig Euro. Anna ist glücklich."
+  },
+  "culture": {
+    "title": "Supermarkets in Germany",
+    "body": "In Germany, popular supermarkets include Rewe, Edeka, Aldi, and Lidl. When shopping, remember to bring your own bags (Einkaufstasche), as plastic bags cost extra. For shopping carts, you usually need to insert a 1-euro or 50-cent coin as a deposit."
+  },
+  "grammar": {
+    "title": "Grammar: Definite Articles (der, die, das) & Numbers",
+    "body": "German nouns have a grammatical gender. Masculine nouns use 'der', feminine nouns use 'der' -> 'die', and neuter nouns use 'das'. Example: der Apfel (masculine), die Banane (feminine), das Obst (neuter). For numbers, 1-12 are unique (eins, zwei...), 13-19 add '-zehn', tens add '-zig' (zwanzig, dreißig), and combined numbers use 'und' (einundzwanzig = 21).",
+    "quizzes": [
+      {
+        "question": "Which article is used for masculine nouns like 'Apfel'?",
+        "options": [
+          "der",
+          "die",
+          "das"
+        ],
+        "answer": "der"
+      },
+      {
+        "question": "What is the correct German word for the number 20?",
+        "options": [
+          "zwei",
+          "zwölf",
+          "zwanzig"
+        ],
+        "answer": "zwanzig"
+      }
+    ]
+  },
+  "translations": [
+    {
+      "question": "Translate to German: 'The supermarket is cheap.'",
+      "options": [
+        "Der Supermarkt ist günstig.",
+        "Das Supermarkt ist teuer.",
+        "Die Supermarkt ist groß."
+      ],
+      "answer": "Der Supermarkt ist günstig."
+    },
+    {
+      "question": "Translate to German: 'How much does the fruit cost?'",
+      "options": [
+        "Wie heißt das Obst?",
+        "Wie viel kostet das Obst?",
+        "Wo ist der Supermarkt?"
+      ],
+      "answer": "Wie viel kostet das Obst?"
+    }
+  ],
+  "listening": {
+    "title": "Audio Practice: At the Cash Register",
+    "steps": [
+      "Listen to the total price.",
+      "Listen to the payment method."
+    ],
+    "script": "Kassierer: Das macht zehn Euro, bitte. Kunde: Mit Karte, bitte. Kassierer: Danke.",
+    "quiz": {
+      "question": "How much is the total according to the audio?",
+      "options": [
+        "5 Euro",
+        "10 Euro",
+        "20 Euro"
+      ],
+      "answer": "10 Euro"
+    }
+  },
+  "writing": "Write 2 short sentences in German about something you buy at the supermarket and its price.",
+  "model": "Der Apfel kostet einen Euro. Die Banane ist günstig.",
+  "checkpoint": "Can you count to 20 and ask for a price using 'Wie viel kostet...?'",
+  "vocabQuiz": {
+    "question": "What does 'teuer' mean?",
+    "options": [
+      "cheap",
+      "expensive",
+      "big"
+    ],
+    "answer": "expensive"
+  },
+  "comprehension": {
+    "question": "Where is Anna shopping in the reading text?",
+    "options": [
+      "In a cafe",
+      "In a supermarket",
+      "At home"
+    ],
+    "answer": "In a supermarket"
+  },
+  "trueFalse": [
+    {
+      "statement": "The fruit in Anna's story is fresh.",
+      "answer": true
+    },
+    {
+      "statement": "The German word 'der' is used for feminine nouns.",
+      "answer": false
+    }
+  ],
+  "review": {
+    "question": "Review from Day 1 & 2: Translate 'Ich wohne in Berlin' into English.",
+    "options": [
+      "I live in Berlin.",
+      "I am from Berlin.",
+      "My name is Berlin."
+    ],
+    "answer": "I live in Berlin."
+  },
+  "id": 3
+}

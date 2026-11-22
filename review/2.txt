@@ -1,0 +1,40 @@
+Day 2 - Tag 2: Im Café & möchten
+Level: A1.1 | Focus: möchten, bestellen, Zahlen bitte | Model: gemini-flash-lite-latest
+
+Objectives:
+  - Learn 5 new café and ordering words
+  - Understand the polite verb 'möchten' (would like)
+  - Count and ask for prices or the bill ('Zahlen, bitte')
+  - Read a simple ordering scenario in a café
+  - Review Day 1 verbs: sein, heißen, and wohnen
+
+Vocabulary:
+  - der Kaffee | coffee (قهوة) | Ich möchte einen Kaffee, bitte.
+  - das Wasser | water (ماء) | Ein Wasser, bitte.
+  - der Kuchen | cake (كعكة) | Der Kuchen ist lecker.
+  - kosten | to cost (يكلف) | Was kostet das?
+  - bitte | please (من فضلك) | Einen Kaffee, bitte.
+
+Dialogues:
+  - Im Café: Kellner: Guten Tag! Was möchten Sie?
+Anna: Ich möchte einen Kaffee, bitte.
+Kellner: Und für Sie?
+Tom: Ein Wasser, bitte.
+Kellner: Gern....
+  - Die Rechnung: Anna: Zahlen, bitte!
+Kellner: Zusammen oder getrennt?
+Anna: Zusammen, bitte.
+Kellner: Das macht vier Euro.
+Anna: Danke schön!...
+  - Kaffee und Kuchen: Tom: Möchtest du Kuchen?
+Anna: Ja, einen Kuchen, bitte.
+Tom: Was kostet der Kuchen?
+Kellner: Drei Euro.
+Tom: Perfekt!...
+  - Bestellung aufnehmen: Kellner: Hallo! Noch ein Kaffee?
+Anna: Nein, danke. Nur die Rechnung.
+Kellner: Kommt sofort.
+Anna: Danke....
+  - Kurzes Gespräch: Tom: Hallo, ich bin Tom.
+Anna: Hallo Tom, ich bin Anna. Ich wohne in Berlin.
+Tom: Ich auch!...
