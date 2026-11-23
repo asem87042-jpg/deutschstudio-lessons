@@ -1,0 +1,32 @@
+Day 4 - Tag 4: Uhrzeit & Tagesablauf
+Level: A1.1 | Focus: Telling time (Uhrzeit) and Separable Verbs (Trennbare Verben). | Model: gemini-3-flash-preview
+
+Objectives:
+  - Ask 'What time is it?' (Wie spät ist es?)
+  - Tell the time using the word 'Uhr'
+  - Learn 5 common daily routine verbs
+  - Understand how separable verbs work in a sentence
+  - Talk about when you work and sleep
+
+Vocabulary:
+  - aufstehen | to get up (يستيقظ) | Ich stehe um 7 Uhr auf.
+  - die Uhr | clock / o'clock (ساعة) | Es ist acht Uhr.
+  - frühstücken | to eat breakfast (يتناول الفطور) | Ich frühstücke um 8 Uhr.
+  - arbeiten | to work (يعمل) | Ich arbeite in Berlin.
+  - schlafen | to sleep (ينام) | Ich schlafe um 22 Uhr.
+
+Dialogues:
+  - Wie spät ist es?: A: Entschuldigung, wie spät ist es?
+B: Es ist jetzt neun Uhr.
+A: Danke!...
+  - Der Morgen: A: Wann stehst du auf?
+B: Ich stehe um sechs Uhr auf.
+A: Das ist früh!...
+  - Frühstück: A: Frühstücken wir?
+B: Ja, gerne. Es ist acht Uhr....
+  - Arbeit: A: Wo arbeitest du?
+B: Ich arbeite hier in Frankfurt.
+A: Von wann bis wann?
+B: Von neun bis fünf....
+  - Gute Nacht: A: Es ist elf Uhr. Ich schlafe jetzt.
+B: Gute Nacht!...

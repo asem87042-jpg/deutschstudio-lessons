@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "days": [
     {
       "id": 1,
@@ -24,6 +24,30 @@
       "title": "Tag 3: Zahlen, Preise & Supermarkt",
       "file": "days/3.json",
       "sha256": "45e4ee44faf073931586717840ef34e82a6c457507d024322bdff9ccf968b8fb"
+    },
+    {
+      "id": 4,
+      "date": "",
+      "level": "A1.1",
+      "title": "Tag 4: Uhrzeit & Tagesablauf",
+      "file": "days/4.json",
+      "sha256": "19ed8e620b81a3a99590a175e668148027defb7325f6595c2ecb56d3d4849c36"
+    },
+    {
+      "id": 5,
+      "date": "",
+      "level": "A1.1",
+      "title": "Tag 5: Wegbeschreibung & U-Bahn",
+      "file": "days/5.json",
+      "sha256": "51e70158b62be36d256cd13dcdb38f6e59a5903b6f4e7873e4b9d291abe6f601"
+    },
+    {
+      "id": 6,
+      "date": "",
+      "level": "A1.1",
+      "title": "Tag 6: Familie & Wohnen",
+      "file": "days/6.json",
+      "sha256": "ea70a5f6ee6ad2c69663bd362dc2fc81f15c70875b49d2e4ba7e545da77e6e27"
     }
   ]
 }

@@ -1,0 +1,173 @@
+{
+  "level": "A1.1",
+  "title": "Tag 5: Wegbeschreibung & U-Bahn",
+  "subtitle": "Getting around the city: Directions and Subways",
+  "description": "Learn how to ask for directions and use simple commands to guide others in a German city.",
+  "focus": "Directions, Imperative (du/Sie), Prepositions (zu/nach)",
+  "objectives": [
+    "Ask for the location of the subway station.",
+    "Understand left, right, and straight ahead.",
+    "Use the formal and informal imperative for directions.",
+    "Use 'nach' for cities/home and 'zu' for local places.",
+    "Navigate a basic German transit stop."
+  ],
+  "vocabulary": [
+    [
+      "die U-Bahn",
+      "subway (المترو)",
+      "Wo ist die U-Bahn?"
+    ],
+    [
+      "links",
+      "left (يسار)",
+      "Gehen Sie links."
+    ],
+    [
+      "rechts",
+      "right (يمين)",
+      "Biegen Sie rechts ab."
+    ],
+    [
+      "geradeaus",
+      "straight ahead (للأمام مباشرة)",
+      "Gehen Sie immer geradeaus."
+    ],
+    [
+      "die Haltestelle",
+      "the stop / station (المحطة)",
+      "Hier ist die Haltestelle."
+    ]
+  ],
+  "dialogues": [
+    {
+      "title": "At the station",
+      "body": "A: Entschuldigung, wo ist die U-Bahn?\nB: Die U-Bahn ist dort. Gehen Sie geradeaus."
+    },
+    {
+      "title": "Asking a friend (du)",
+      "body": "A: Hallo! Wo wohnst du?\nB: Ich wohne in Berlin. Geh hier links und dann rechts."
+    },
+    {
+      "title": "Meeting a stranger",
+      "body": "A: Guten Tag, wie heißen Sie?\nB: Ich heiße Max. Suchen Sie die Haltestelle? Gehen Sie rechts."
+    },
+    {
+      "title": "Going home",
+      "body": "A: Gehst du zum Supermarkt?\nB: Nein, ich fahre nach Hause."
+    },
+    {
+      "title": "The correct train",
+      "body": "A: Ist das die U-Bahn nach Mitte?\nB: Ja, das ist sie. Bitte einsteigen!"
+    }
+  ],
+  "reading": {
+    "title": "Ein Tag in Berlin",
+    "text": "Das ist Sarah. Sie wohnt in Berlin. Sarah sucht die U-Bahn. Sie fragt einen Mann: 'Wo ist die Haltestelle?' Der Mann sagt: 'Gehen Sie geradeaus und dann links.' Sarah dankt ihm. Berlin ist groß, aber die U-Bahn ist sehr gut. Sie fährt nach Hause."
+  },
+  "culture": {
+    "title": "Public Transport in Germany",
+    "body": "In Germany, subway stations (U-Bahn) are marked with a blue 'U' sign. You must buy a ticket before you board. There are no turnstiles, but controllers check tickets randomly."
+  },
+  "grammar": {
+    "title": "Imperative and Prepositions",
+    "body": "1. Imperative (Commands): To give directions politely (Sie), use 'Verb + Sie' (Gehen Sie). For friends (du), drop the -en and the pronoun (Geh!). \n2. Prepositions: Use 'nach' for cities (nach Berlin) and 'nach Hause' (home). Use 'zu' + article for local places (zum Bahnhof).",
+    "quizzes": [
+      {
+        "question": "How do you say 'Go straight' formally?",
+        "options": [
+          "Gehen Sie geradeaus",
+          "Gehst du geradeaus",
+          "Geradeaus gehen"
+        ],
+        "answer": "Gehen Sie geradeaus"
+      },
+      {
+        "question": "Which preposition is correct for 'home'?",
+        "options": [
+          "zu Hause",
+          "nach Hause",
+          "in Hause"
+        ],
+        "answer": "nach Hause"
+      }
+    ]
+  },
+  "translations": [
+    {
+      "german": "Gehen Sie links.",
+      "english": "Go left."
+    },
+    {
+      "german": "Wo ist die Haltestelle?",
+      "english": "Where is the stop?"
+    }
+  ],
+  "listening": {
+    "title": "Finding the Train",
+    "steps": "Listen for the direction word (links, rechts, or geradeaus).",
+    "script": "Entschuldigung! Wo ist die U-Bahn? - Gehen Sie bitte rechts. Dort ist die Haltestelle.",
+    "quiz": {
+      "question": "Which direction did the person say?",
+      "options": [
+        "Left",
+        "Right",
+        "Straight"
+      ],
+      "answer": "Right"
+    }
+  },
+  "writing": "Write two sentences telling a tourist to go straight and then left.",
+  "model": "Gehen Sie geradeaus. Dann gehen Sie links.",
+  "checkpoint": "You can now ask for directions and use basic 'links/rechts' commands.",
+  "vocabQuiz": [
+    {
+      "word": "rechts",
+      "options": [
+        "left",
+        "right",
+        "straight"
+      ],
+      "answer": "right"
+    },
+    {
+      "word": "die U-Bahn",
+      "options": [
+        "subway",
+        "bus",
+        "taxi"
+      ],
+      "answer": "subway"
+    }
+  ],
+  "comprehension": {
+    "question": "Where does Sarah want to go in the reading text?",
+    "options": [
+      "To the supermarket",
+      "To the U-Bahn",
+      "To a cafe"
+    ],
+    "answer": "To the U-Bahn"
+  },
+  "trueFalse": [
+    {
+      "statement": "'Gehen Sie' is the formal imperative.",
+      "isTrue": true
+    },
+    {
+      "statement": "'Nach' is used for the word 'Bahnhof'.",
+      "isTrue": false
+    }
+  ],
+  "review": {
+    "points": [
+      "Recycled: 'sein' (Wo ist...?)",
+      "Recycled: 'wohnen' (Ich wohne in...)",
+      "Recycled: 'heißen' (Wie heißen Sie?)"
+    ],
+    "quiz": {
+      "question": "Translate: 'Where is the subway?'",
+      "answer": "Wo ist die U-Bahn?"
+    }
+  },
+  "id": 5
+}

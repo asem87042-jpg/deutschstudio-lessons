@@ -1,0 +1,36 @@
+Day 6 - Tag 6: Familie & Wohnen
+Level: A1.1 | Focus: Possessive articles (mein, dein), the verb 'haben', and family vocabulary. | Model: gemini-3-flash-preview
+
+Objectives:
+  - Identify basic family members (Mutter, Vater).
+  - Conjugate the verb 'haben' in the present tense.
+  - Use 'mein' and 'dein' correctly with masculine, feminine, and neuter nouns.
+  - Distinguish between 'Haus' and 'Wohnung'.
+  - Describe your living situation using 'wohnen'.
+
+Vocabulary:
+  - die Mutter | mother (الأم) | Meine Mutter heißt Maria.
+  - der Vater | father (الأب) | Mein Vater wohnt in München.
+  - das Haus | house (بيت) | Das Haus ist sehr groß.
+  - die Wohnung | apartment (شقة) | Meine Wohnung ist klein, aber schön.
+  - haben | to have (يملك) | Ich habe ein Haus.
+
+Dialogues:
+  - Die Familie: A: Wer ist das?
+B: Das ist meine Mutter.
+A: Und wer ist das?
+B: Das ist mein Vater. Er heißt Hans....
+  - Wo wohnst du?: A: Wohnst du in Berlin?
+B: Ja, ich habe eine Wohnung in Berlin.
+A: Ist die Wohnung groß?
+B: Nein, sie ist klein....
+  - Geschwister: A: Hast du einen Bruder?
+B: Nein, ich habe eine Schwester.
+A: Wie heißt sie?
+B: Sie heißt Sarah....
+  - Das Haus: A: Ist das dein Haus?
+B: Ja, das ist mein Haus.
+A: Es ist sehr schön!
+B: Danke!...
+  - Eltern: A: Wo wohnen deine Eltern?
+B: Mein Vater wohnt in Hamburg. Meine Mutter wohnt in Köln....

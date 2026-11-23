@@ -1,0 +1,193 @@
+{
+  "level": "A1.1",
+  "title": "Tag 4: Uhrzeit & Tagesablauf",
+  "subtitle": "Telling time and your daily routine",
+  "description": "In this lesson, you will learn how to tell the time and describe your day using basic verbs. We will introduce separable verbs in their simplest form.",
+  "focus": "Telling time (Uhrzeit) and Separable Verbs (Trennbare Verben).",
+  "objectives": [
+    "Ask 'What time is it?' (Wie spät ist es?)",
+    "Tell the time using the word 'Uhr'",
+    "Learn 5 common daily routine verbs",
+    "Understand how separable verbs work in a sentence",
+    "Talk about when you work and sleep"
+  ],
+  "vocabulary": [
+    [
+      "aufstehen",
+      "to get up (يستيقظ)",
+      "Ich stehe um 7 Uhr auf."
+    ],
+    [
+      "die Uhr",
+      "clock / o'clock (ساعة)",
+      "Es ist acht Uhr."
+    ],
+    [
+      "frühstücken",
+      "to eat breakfast (يتناول الفطور)",
+      "Ich frühstücke um 8 Uhr."
+    ],
+    [
+      "arbeiten",
+      "to work (يعمل)",
+      "Ich arbeite in Berlin."
+    ],
+    [
+      "schlafen",
+      "to sleep (ينام)",
+      "Ich schlafe um 22 Uhr."
+    ]
+  ],
+  "dialogues": [
+    {
+      "title": "Wie spät ist es?",
+      "body": "A: Entschuldigung, wie spät ist es?\nB: Es ist jetzt neun Uhr.\nA: Danke!"
+    },
+    {
+      "title": "Der Morgen",
+      "body": "A: Wann stehst du auf?\nB: Ich stehe um sechs Uhr auf.\nA: Das ist früh!"
+    },
+    {
+      "title": "Frühstück",
+      "body": "A: Frühstücken wir?\nB: Ja, gerne. Es ist acht Uhr."
+    },
+    {
+      "title": "Arbeit",
+      "body": "A: Wo arbeitest du?\nB: Ich arbeite hier in Frankfurt.\nA: Von wann bis wann?\nB: Von neun bis fünf."
+    },
+    {
+      "title": "Gute Nacht",
+      "body": "A: Es ist elf Uhr. Ich schlafe jetzt.\nB: Gute Nacht!"
+    }
+  ],
+  "reading": {
+    "title": "Ein Tag in Berlin",
+    "text": "Das ist Lukas. Er wohnt in Berlin. Er heißt Lukas Schmidt. Lukas steht um 7 Uhr auf. Er frühstückt und trinkt Wasser. Um 9 Uhr arbeitet Lukas. Lukas ist Lehrer. Um 22 Uhr schläft er. Das ist sein Tag."
+  },
+  "culture": {
+    "title": "Pünktlichkeit (Punctuality)",
+    "body": "In Germany, being on time is very important. If a meeting is at 8:00 (acht Uhr), you should be there at 8:00. Being 5 minutes late is often considered rude."
+  },
+  "grammar": {
+    "title": "Telling Time & Separable Verbs",
+    "body": "1. Time: Ask 'Wie spät ist es?' or 'Wie viel Uhr ist es?'. Answer: 'Es ist [number] Uhr.' \n2. Separable Verbs: Some verbs like 'aufstehen' (to get up) split. The 'auf' goes to the very end of the sentence. Example: Ich stehe (verb) um 7 Uhr auf (prefix).",
+    "quizzes": [
+      {
+        "question": "Fill in the gap: Ich _____ um 6 Uhr auf.",
+        "options": [
+          "bin",
+          "stehe",
+          "uhr"
+        ],
+        "answer": "stehe"
+      },
+      {
+        "question": "How do you ask for the time?",
+        "options": [
+          "Wie spät ist es?",
+          "Wer ist das?",
+          "Wo wohnst du?"
+        ],
+        "answer": "Wie spät ist es?"
+      }
+    ]
+  },
+  "translations": [
+    {
+      "question": "It is ten o'clock.",
+      "answer": "Es ist zehn Uhr."
+    },
+    {
+      "question": "I work in Berlin.",
+      "answer": "Ich arbeite in Berlin."
+    }
+  ],
+  "listening": {
+    "title": "Listening: Lukas's Routine",
+    "steps": [
+      "Listen for the numbers (times).",
+      "Identify the verb 'aufstehen'.",
+      "Note the city where Lukas lives."
+    ],
+    "script": "Hallo. Ich bin Lukas. Ich wohne in Berlin. Ich stehe um sieben Uhr auf. Ich arbeite um neun Uhr.",
+    "quiz": {
+      "question": "When does Lukas get up?",
+      "options": [
+        "7 Uhr",
+        "9 Uhr",
+        "10 Uhr"
+      ],
+      "answer": "7 Uhr"
+    }
+  },
+  "writing": {
+    "instruction": "Write 3 simple sentences about your day. Use: Ich stehe um... auf, Ich arbeite um..., Ich schlafe um...",
+    "model": "Ich stehe um 8 Uhr auf. Ich arbeite um 9 Uhr. Ich schlafe um 23 Uhr."
+  },
+  "checkpoint": {
+    "summary": "You can now tell the time and describe a basic daily routine in German using 'aufstehen', 'arbeiten', and 'schlafen'.",
+    "nextStep": "In the next lesson, we will look at hobbies and free time."
+  },
+  "vocabQuiz": [
+    {
+      "word": "schlafen",
+      "options": [
+        "to sleep",
+        "to eat",
+        "to work"
+      ],
+      "answer": "to sleep"
+    },
+    {
+      "word": "die Uhr",
+      "options": [
+        "the door",
+        "the clock",
+        "the price"
+      ],
+      "answer": "the clock"
+    }
+  ],
+  "comprehension": {
+    "question": "In the reading text, what is Lukas's job?",
+    "options": [
+      "He is a student.",
+      "He is a teacher (Lehrer).",
+      "He is a waiter."
+    ],
+    "answer": "He is a teacher (Lehrer)."
+  },
+  "trueFalse": [
+    {
+      "statement": "'Aufstehen' is a separable verb.",
+      "answer": true
+    },
+    {
+      "statement": "In 'Es ist acht Uhr', 'acht' means seven.",
+      "answer": false
+    },
+    {
+      "statement": "'Wie spät ist es?' means 'What time is it?'.",
+      "answer": true
+    }
+  ],
+  "review": {
+    "title": "Review of Previous Days",
+    "instruction": "Complete the sentences with 'sein', 'heißen', or 'wohnen'.",
+    "quizzes": [
+      {
+        "question": "Ich ____ Lukas. (My name is...)",
+        "answer": "heiße"
+      },
+      {
+        "question": "Ich ____ in München. (I live in...)",
+        "answer": "wohne"
+      },
+      {
+        "question": "Das ____ ein Kaffee. (That is...)",
+        "answer": "ist"
+      }
+    ]
+  },
+  "id": 4
+}

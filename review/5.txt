@@ -1,0 +1,28 @@
+Day 5 - Tag 5: Wegbeschreibung & U-Bahn
+Level: A1.1 | Focus: Directions, Imperative (du/Sie), Prepositions (zu/nach) | Model: gemini-3-flash-preview
+
+Objectives:
+  - Ask for the location of the subway station.
+  - Understand left, right, and straight ahead.
+  - Use the formal and informal imperative for directions.
+  - Use 'nach' for cities/home and 'zu' for local places.
+  - Navigate a basic German transit stop.
+
+Vocabulary:
+  - die U-Bahn | subway (المترو) | Wo ist die U-Bahn?
+  - links | left (يسار) | Gehen Sie links.
+  - rechts | right (يمين) | Biegen Sie rechts ab.
+  - geradeaus | straight ahead (للأمام مباشرة) | Gehen Sie immer geradeaus.
+  - die Haltestelle | the stop / station (المحطة) | Hier ist die Haltestelle.
+
+Dialogues:
+  - At the station: A: Entschuldigung, wo ist die U-Bahn?
+B: Die U-Bahn ist dort. Gehen Sie geradeaus....
+  - Asking a friend (du): A: Hallo! Wo wohnst du?
+B: Ich wohne in Berlin. Geh hier links und dann rechts....
+  - Meeting a stranger: A: Guten Tag, wie heißen Sie?
+B: Ich heiße Max. Suchen Sie die Haltestelle? Gehen Sie rechts....
+  - Going home: A: Gehst du zum Supermarkt?
+B: Nein, ich fahre nach Hause....
+  - The correct train: A: Ist das die U-Bahn nach Mitte?
+B: Ja, das ist sie. Bitte einsteigen!...

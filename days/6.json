@@ -1,0 +1,253 @@
+{
+  "level": "A1.1",
+  "title": "Tag 6: Familie & Wohnen",
+  "subtitle": "Family and Living",
+  "description": "Learn to talk about your family members and where you live. You will learn the verb 'haben' and how to say 'my' and 'your' in German.",
+  "focus": "Possessive articles (mein, dein), the verb 'haben', and family vocabulary.",
+  "objectives": [
+    "Identify basic family members (Mutter, Vater).",
+    "Conjugate the verb 'haben' in the present tense.",
+    "Use 'mein' and 'dein' correctly with masculine, feminine, and neuter nouns.",
+    "Distinguish between 'Haus' and 'Wohnung'.",
+    "Describe your living situation using 'wohnen'."
+  ],
+  "vocabulary": [
+    [
+      "die Mutter",
+      "mother (الأم)",
+      "Meine Mutter heißt Maria."
+    ],
+    [
+      "der Vater",
+      "father (الأب)",
+      "Mein Vater wohnt in München."
+    ],
+    [
+      "das Haus",
+      "house (بيت)",
+      "Das Haus ist sehr groß."
+    ],
+    [
+      "die Wohnung",
+      "apartment (شقة)",
+      "Meine Wohnung ist klein, aber schön."
+    ],
+    [
+      "haben",
+      "to have (يملك)",
+      "Ich habe ein Haus."
+    ]
+  ],
+  "dialogues": [
+    {
+      "title": "Die Familie",
+      "body": "A: Wer ist das?\nB: Das ist meine Mutter.\nA: Und wer ist das?\nB: Das ist mein Vater. Er heißt Hans."
+    },
+    {
+      "title": "Wo wohnst du?",
+      "body": "A: Wohnst du in Berlin?\nB: Ja, ich habe eine Wohnung in Berlin.\nA: Ist die Wohnung groß?\nB: Nein, sie ist klein."
+    },
+    {
+      "title": "Geschwister",
+      "body": "A: Hast du einen Bruder?\nB: Nein, ich habe eine Schwester.\nA: Wie heißt sie?\nB: Sie heißt Sarah."
+    },
+    {
+      "title": "Das Haus",
+      "body": "A: Ist das dein Haus?\nB: Ja, das ist mein Haus.\nA: Es ist sehr schön!\nB: Danke!"
+    },
+    {
+      "title": "Eltern",
+      "body": "A: Wo wohnen deine Eltern?\nB: Mein Vater wohnt in Hamburg. Meine Mutter wohnt in Köln."
+    }
+  ],
+  "reading": {
+    "title": "Meine Familie",
+    "text": "Hallo! Ich heiße Lukas. Ich wohne in Frankfurt. Ich habe eine Wohnung. Meine Wohnung ist klein. Das ist meine Mutter. Sie heißt Helga. Das ist mein Vater. Er heißt Thomas. Sie wohnen in einem Haus in Berlin. Mein Haus ist dein Haus!"
+  },
+  "culture": {
+    "title": "Wohnen in Deutschland",
+    "body": "In Germany, many people live in 'Wohnungen' (apartments), especially in big cities like Berlin or Munich. A 'Wohngemeinschaft' (WG) is very common for students, where they share one apartment to save money. When you visit a German home, it is polite to take off your shoes at the entrance."
+  },
+  "grammar": {
+    "title": "The verb 'haben' and Possessive Articles",
+    "body": "1. The verb 'haben' (to have): \n- Ich habe (I have)\n- Du hast (You have)\n- Er/Sie/Es hat (He/She/It has)\n- Wir haben (We have)\n- Ihr habt (You all have)\n- Sie/sie haben (They/You formal have)\n\n2. Possessive Articles (mein/dein):\n- Use 'mein' (my) or 'dein' (your) for masculine (der) and neuter (das) nouns. Example: mein Vater, mein Haus.\n- Use 'meine' or 'deine' for feminine (die) nouns. Example: meine Mutter, meine Wohnung.",
+    "quizzes": [
+      {
+        "question": "Conjugate: Ich ___ ein Haus.",
+        "options": [
+          "hast",
+          "haben",
+          "habe"
+        ],
+        "answer": "habe"
+      },
+      {
+        "question": "Which is correct for 'my mother'?",
+        "options": [
+          "mein Mutter",
+          "meine Mutter",
+          "meines Mutter"
+        ],
+        "answer": "meine Mutter"
+      }
+    ]
+  },
+  "translations": [
+    {
+      "sentence": "My father lives in Berlin.",
+      "translation": "Mein Vater wohnt in Berlin."
+    },
+    {
+      "sentence": "Do you have an apartment?",
+      "translation": "Hast du eine Wohnung?"
+    }
+  ],
+  "listening": {
+    "title": "Listening: Lukas and his family",
+    "steps": [
+      "Listen for the names of the parents.",
+      "Identify if Lukas has a house or an apartment.",
+      "Notice the use of 'mein' and 'meine'."
+    ],
+    "script": "Lukas: Das ist meine Mutter, Maria. Und das ist mein Vater, Klaus. Wir wohnen in Frankfurt. Ich habe eine Wohnung. Die Wohnung ist schön.",
+    "quiz": {
+      "question": "Where does Lukas live?",
+      "options": [
+        "Berlin",
+        "Frankfurt",
+        "Hamburg"
+      ],
+      "answer": "Frankfurt"
+    }
+  },
+  "writing": {
+    "prompt": "Write 3 sentences about your family and where you live. Use 'mein/meine' and 'wohnen'.",
+    "model": "Ich wohne in Dubai. Meine Mutter heißt Mona. Mein Vater heißt Omar. Ich habe eine Wohnung."
+  },
+  "checkpoint": [
+    "I can say 'mother' and 'father' in German.",
+    "I can use 'mein/meine' and 'dein/deine'.",
+    "I can conjugate the verb 'haben'.",
+    "I can explain the difference between Haus and Wohnung."
+  ],
+  "vocabQuiz": [
+    {
+      "word": "mother",
+      "options": [
+        "die Mutter",
+        "der Vater",
+        "das Haus"
+      ],
+      "answer": "die Mutter"
+    },
+    {
+      "word": "house",
+      "options": [
+        "die Wohnung",
+        "das Haus",
+        "haben"
+      ],
+      "answer": "das Haus"
+    },
+    {
+      "word": "to have",
+      "options": [
+        "sein",
+        "wohnen",
+        "haben"
+      ],
+      "answer": "haben"
+    },
+    {
+      "word": "apartment",
+      "options": [
+        "die Wohnung",
+        "die Mutter",
+        "der Vater"
+      ],
+      "answer": "die Wohnung"
+    },
+    {
+      "word": "father",
+      "options": [
+        "der Herr",
+        "der Vater",
+        "die Frau"
+      ],
+      "answer": "der Vater"
+    }
+  ],
+  "comprehension": [
+    {
+      "question": "In the reading text, where do the parents live?",
+      "options": [
+        "Frankfurt",
+        "Berlin",
+        "München"
+      ],
+      "answer": "Berlin"
+    },
+    {
+      "question": "Is Lukas's apartment big or small?",
+      "options": [
+        "groß",
+        "klein",
+        "teuer"
+      ],
+      "answer": "klein"
+    },
+    {
+      "question": "Who is Thomas?",
+      "options": [
+        "Lukas's brother",
+        "Lukas's father",
+        "A friend"
+      ],
+      "answer": "Lukas's father"
+    }
+  ],
+  "trueFalse": [
+    {
+      "statement": "'Mein Vater' is correct because 'Vater' is masculine.",
+      "answer": true
+    },
+    {
+      "statement": "'Ich hat' is the correct conjugation of 'haben'.",
+      "answer": false
+    },
+    {
+      "statement": "A 'Wohnung' is usually inside a larger building.",
+      "answer": true
+    }
+  ],
+  "review": [
+    {
+      "question": "Recycle: Wie ___ du? (What is your name?)",
+      "options": [
+        "bist",
+        "heißt",
+        "wohne"
+      ],
+      "answer": "heißt"
+    },
+    {
+      "question": "Recycle: Ich ___ in Madrid. (I live in Madrid.)",
+      "options": [
+        "wohne",
+        "bin",
+        "habe"
+      ],
+      "answer": "wohne"
+    },
+    {
+      "question": "Recycle: Er ___ Lehrer. (He is a teacher.)",
+      "options": [
+        "hat",
+        "ist",
+        "wohnt"
+      ],
+      "answer": "ist"
+    }
+  ],
+  "id": 6
+}
