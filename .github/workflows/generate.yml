@@ -11,10 +11,6 @@ on:
         description: "How many days to generate this run"
         required: false
         default: "3"
-  schedule:
-    # Twice a day, paced: ~6 lesson-days per day within free Gemini quota
-    - cron: "17 5 * * *"
-    - cron: "17 17 * * *"
 
 permissions:
   contents: write
